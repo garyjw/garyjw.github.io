@@ -3,7 +3,7 @@ layout: project
 type: project
 image: garyjw.github.io/images/pokemon.png
 title: My First Project
-permalink: projects/micromouse
+permalink:
 date: 2016
 labels:
   - ICS 111
