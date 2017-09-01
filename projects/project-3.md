@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/UE4logl.jpg
 title: Game App Development
 permalink:
 date: 2017
