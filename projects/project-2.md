@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: garyjw.github.io/images/flapbird.jpg
 title: Flappy Bird Recreation
 permalink:
 date: 2017
@@ -12,7 +12,7 @@ labels:
 summary: A recreation of the renown flappy bird mobile app.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="garyjw.github.io/images/flapbird.jpg">
 
 This project was my attempt to recreate the renown mobile app flappy bird. The purpose of this project was to create something not connected to school so that I can put the knowledge I've learned in class in practice. So instead of using Eclipse I used Android Studio and looked up how to utilize the tools offered in Android Studio.
 
