@@ -2,22 +2,23 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: My First Project
 permalink: projects/micromouse
-date: 2015
+date: 2016
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - ICS 111
+  - Final
+  - Java
+summary: First group project I've made in computer science.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+ICS 111 was my introduction to computer science and programming. Instead of a final exam there was a final project that was completed in groups. With the Pokemon Go craze going on at the time my team decided to make a Pokemon game for our final.
+
+The game was a Pokemon battle simulation where the player could select one of four attacks in a turn based fight against the computer. The battle would carry on until one of them has run out of health points.
+ 
+Although the project itself was crude and rough around the edges, it was important to me because I enjoyed working with my group to create the game. It was during this time that I decided computer science is the right path for me.
+
+
 
 Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
