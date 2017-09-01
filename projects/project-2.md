@@ -2,23 +2,19 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+title: Flappy Bird Recreation
+permalink:
+date: 2017
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Android
+  - Android Studio
+summary: A recreation of the renown flappy bird mobile app.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This project was my attempt to recreate the renown mobile app flappy bird. The purpose of this project was to create something not connected to school so that I can put the knowledge I've learned in class in practice. So instead of using Eclipse I used Android Studio and looked up how to utilize the tools offered in Android Studio.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+In my recreation of flappy bird I used a game framework created by BadLogicGames called libGDX. My attempt at recreating flappy bird was similar to the original with the exception of a score keeping system. The game consisted of several modes such as a main menu and game mode.The player would be able to make the bird jump by tapping or clicking on the screen during the game mode.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
