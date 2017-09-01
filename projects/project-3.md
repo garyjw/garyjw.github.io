@@ -12,7 +12,6 @@ labels:
 summary: A game I am working on in Unreal Engine 4 using materials I've made.
 ---
 <img class="ui medium right floated rounded image" src="/images/blueprints.jpg">
-<img class="ui image" src="{{ site.baseurl }}/images/blueprints.png">
 
 During the summer of 2017 I took it upon myself to familiarize myself with various game making tools. After doing some research I decided to try out Unreal Engine 4 due to it being user friendly, beginner friendly, and free. For materials such as images I used GIMP 2.0 to create art which were all in pixel art style.
 
