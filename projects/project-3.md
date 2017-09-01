@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/UE4logl.jpg
+image: garyjw.github.io/images/UE4logo.jpg
 title: 2D side-scroller game
 permalink:
 date: 2017
