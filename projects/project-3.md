@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+title: Game App Development
+permalink:
+date: 2017
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Unreal Engine 4
+  - Gimp 2.0
+summary: A game I am working on in Unreal Engine 4 using materials I've made.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
