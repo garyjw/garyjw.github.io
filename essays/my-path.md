@@ -6,7 +6,7 @@ date: 2017-08-31
 labels:
   - Computer Science
   - Education
-  - Goals
+  - Goalss
 ---
 
 During my time in highschool I lived in the "now" and not "tomorrow" so I didnt make plans for my future. My first couple years in college consisted of me drifting through various departments. I stopped drifting when I took ICS 111, the introductory course to programming. I became enamored with the lines of code behind every program, I just had to learn to make my own.
