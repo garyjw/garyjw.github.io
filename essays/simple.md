@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Simple UI
+title: simple
 date: 2017-10-5
 labels:
   - Framework
   - Semantic UI
   - Thoughts
 ---
-
 ## Introduction
 <img class="ui small left floated rounded image" src="/images/html-for-beginners.jpg">
 Prior to ICS314 at the University of Hawaii at Manoa, I had no experience with coding in html. The syntax of html was and still is quite foreign to me. From what I understand, it is kind of like a layout, a blank sheet and each line of code you type in adds elements that can be seen visually in a web page. My initial reaction to html was that it'll take me forever to learn how to make a decent web page, that is until semantic UI was introduced.
