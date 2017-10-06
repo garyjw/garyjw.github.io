@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: simple
-date: 2017-10-5
+date: 2017-10-05
 labels:
   - Framework
   - Semantic UI
