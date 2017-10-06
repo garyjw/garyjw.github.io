@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: Simple UI
-date: 2017-10-5
+title: My Path
+date: 2017-08-31
 labels:
-  - UI Frameworks
-  - HTML
-  - Semantic UI
+  - Computer Science
+  - Education
+  - Goals
 ---
