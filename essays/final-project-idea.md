@@ -20,7 +20,7 @@ Important design goals for Campus Trader are:
   - To make it easier to find items that would not be found on campus stores
   - To save time by having all items in one place
   
- ## Mockup page idea
+## Mockup page idea
   -Homepage with a login
   -User profile
   -Item search
@@ -28,11 +28,11 @@ Important design goals for Campus Trader are:
   -History
   -Manage exchangables page
   
-  ## Use case ideas
+## Use case ideas
   The user logs in and searching for an item that they're looking for
   The user can create an account to showcase their exchangables and what they're looking for
   The user is notified with responses
   
-  ##Beyond the basics
+## Beyond the basics
   Cellphone accessible through app
   A review rating system for the user like amazon and ebay
