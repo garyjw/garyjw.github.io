@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 ## Introduction
-<img class="ui small left floated rounded image" src="/images/terminal_sc.png">
+<img class="ui medium left floated rounded image" src="/images/terminal_sc.png">
   Meteor is a developers tool that I was only recently introduced to and to my surprise it possibly has been the one of the highest hurdles that I have yet to jump. There are a couple of problems that I've encountered which include not understanding the inputs, layout, and syntaxs of meteor and having unknown refreshing errors.
 
 ## Problems
