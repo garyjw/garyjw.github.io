@@ -10,6 +10,7 @@ labels:
 ---
 
 ## Introduction
+<img class="ui small left floated rounded image" src="/images/giant_meteor.jpg">
 At first glance learning meteor is quite a daunting task. At least it was to me, in the beginning it was like starring at a massive meteor hurtling towards my brain. However, in time as a used meteor more and more the size of the meteor shrunk, don't get me wrong though it's still big but just not as much as before. 
 
 ## Difficulties
