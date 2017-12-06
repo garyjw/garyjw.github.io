@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Ethics of Software Engineering
+title: Broad Solutions
 date: 2017-12-05
 labels:
   - Computer Science
