@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: simple
+title: Simple Yet Stunning
 date: 2017-10-05
 labels:
   - Framework
