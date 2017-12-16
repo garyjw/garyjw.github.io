@@ -1,15 +1,17 @@
 ---
 layout: project
 type: project
-image: garyjw.github.io/images/UE4logo.jpg
-title: 2D side-scroller game
+image: garyjw.github.io/images/MZ_orders.png
+title: Munchie Zone
 permalink:
 date: 2017
 labels:
-  - Unreal Engine 4
-  - Gimp 2.0
-  - Blueprints
-summary: A game I am working on in Unreal Engine 4 using materials I've made.
+  - Meteor
+  - HTML
+  - Javascript
+  - MongoDB
+  - Github
+summary: Team project to help UH students have food delivered with their order cost under the delivery minimum.
 ---
 <img class="ui medium right floated rounded image" src="/images/blueprints.jpg">
 
