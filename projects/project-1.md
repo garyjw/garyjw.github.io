@@ -14,7 +14,7 @@ summary: First group project I've made in computer science.
 
 <img class="ui medium right floated rounded image" src="/images/ics111final_ss.png">
 
-ICS 111 was my introduction to computer science and programming. Instead of a final exam there was a final project that was completed in groups. With the Pokemon Go craze going on at the time my team decided to make a Pokemon game for our final.
+ICS 111 was my introduction to computer science and programming. Instead of a final exam there was a final project that was completed in groups. With the Pokemon Go craze going on at the time my team decided to make a Pokemon game for our <a href="https://github.com/garyjw/ics111final">final</a>.
 
 The game was a Pokemon battle simulation where the player could select one of four attacks in a turn based fight against the computer. The battle would carry on until one of them has run out of health points.
  
