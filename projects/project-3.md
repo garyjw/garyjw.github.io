@@ -20,3 +20,5 @@ summary: Team project to help UH students have food delivered with their order c
 
 # My Part
 Munchie Zone consisted of two milestones. In milestone one the task was to implement mock up pages for what we envisioned Munchie Zone to look like. In this portion I was charged with creating what I think a home page and a create an order page would look like. For milestone two the task was to add functionality to our mockups. I was responsible for implementing buttons, a restaurant search filter, and to have order appear on the home page as well as allow users to search by their favorite restaurants. 
+
+# Learning Outcomes
