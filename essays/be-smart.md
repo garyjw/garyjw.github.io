@@ -10,7 +10,7 @@ labels:
 ---
 
 ## Introduction
-<img class="ui medium left floated rounded image" src="/images/magnifyglass.jpg">
+<img class="ui small left floated rounded image" src="/images/magnifyglass.jpg">
 With obesity rates rising rapidly in America it is no surprise that majority of the people you come across are gluttons. The internet is no different, with over 90% of questions posted are from people who love to be spoon fed answers. For software engineering, you will see that forums are littered with questions that are not asked in a manner where the problem is easy to identify and answer with precision. In "How To Ask Questions The Smart Way" Eric Raymond, states that such questions are unlikely to be met with an adequate answer. So how does one seek help and receive what they're looking for?
 
 ## How Not To
@@ -21,5 +21,5 @@ Contrast to the previous <a href="https://stackoverflow.com/questions/45670264/h
 
 
 ## Conclusion
-<img class="ui medium left floated rounded image" src="/images/spoonfed.jpg">
+<img class="ui small left floated rounded image" src="/images/spoonfed.jpg">
 Asking questions requires a level of finnese that many people lack. In order to save your audience's and your own time it is important to learn how to properly ask questions that meet the standard that software engineers deem worthy of an answer. Concise questions are likely to be answered concisely, whereas vague questions asked by babies who want to be spoon fed are unlikely to feedback let alone a response.
