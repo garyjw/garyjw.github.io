@@ -12,7 +12,7 @@ labels:
 summary: First group project I've made in computer science.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/attacks.png">
+<img class="ui medium right floated rounded image" src="/images/ics111final_ss.png">
 
 ICS 111 was my introduction to computer science and programming. Instead of a final exam there was a final project that was completed in groups. With the Pokemon Go craze going on at the time my team decided to make a Pokemon game for our final.
 
