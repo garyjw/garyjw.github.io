@@ -15,10 +15,7 @@ summary: Team project to help UH students have food delivered with their order c
 ---
 <img class="ui medium right floated rounded image" src="/images/blueprints.jpg">
 
-During the summer of 2017 I took it upon myself to familiarize myself with various game making tools. After doing some research I decided to try out Unreal Engine 4 due to it being user friendly, beginner friendly, and free. For materials such as images I used GIMP 2.0 to create art which were all in pixel art style.
+# What is Munchie Zone?
+Munchie Zone is a UH webpage that is developed so that students can order food from restaurants and have it delivered through deliveries services such as Bite Squad and Uber Eats. However, the predicament is that such services may have a minimum order count or charge extra fees that might be more than a single student can afford. The solution? Munchie Zone is designed so that a student can create a pending order for a time period that allows other students who may also be looking to order from the same restaurant to hop into the order. Features of this webpage include creating an order of your own or browsing other people's orders and joining in on it.
 
-Instead of typing out lines of code, I utilized Unreal Engine's blueprint system to create a 2D side scrolling game. Blueprints allowed me to make core game functions quickly. Which consisted of running and jumping and giving obstacles within the game movements and other instructions. 
 
-Although GIMP may not be as intricate as photoshop the tools required to create pixel art was present on GIMP. I created several sprite sheets to add into Unreal Engine and animated them using a flipbook.
-
-This project was important to me because it allowed me to broaden my skills and familiarize myself with an enviroment suited to creating a game.
