@@ -25,4 +25,5 @@ Munchie Zone consisted of two milestones. In milestone one the task was to imple
 This project was a first for many things. Such as collaborating with my team through github. I've learned how convenient it is to be able to instantly update and send code to one another through the github repository. By assigning major issues to members of the team I have also got a taste of issue based programmming, which has made organization a much simpler task. This allowed me to keep track of who is doing what and when it is being done. Also, by using meteor to handle back end I can say that I understand meteor much better but still no where near mastered, perhaps in another project. 
 
 Source: <i class="large github icon"></i><a href="https://github.com/munchiezone/munchiezone.github.io">Munchie Zone</a>
+
 <a href="https://munchiezone.github.io/">Project Homepage</a>
